@@ -1,6 +1,6 @@
 - 👋 Hello there! Welcome to my github! I use it for project showcase/coursework
 - 💽⚛️ I'm a Computer Science, Physics 
-- ⚙️    & Mechanical Engineering Student Northeastern University
+- ⚙️    & Mechanical Engineering Student @ Northeastern University
 - 🛠 Done some work at Siemens Healthineers and Aerospace club @ NEU
 - 🌱 Interests include AI, Robotics, Computational Sciences & Astrophysics
 - 🈷️ Learning: French, Hindi, Japanese, Java, Python, MATLAB,
